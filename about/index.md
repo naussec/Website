@@ -14,7 +14,7 @@ Hi, my name is Chris better known as Naus with a lot of my friends and co-worker
 
 ## Site Goals
 
-I would like to continue to develop my skills and use this platform to help other reach their goals and to hold myself accountable. So feel free to bookmark this page and come along the journey with me. I am sure as I grow and change so will this website but currently I hope to make short blogs on many things like my setups, good resources, CTF like www.hackthebox.com and www.tryhackme.com, and just whatever is on the brain for the day!
+I would like to continue to develop my skills and use this platform to help other reach their goals and to hold myself accountable. So feel free to bookmark this page and come along the journey with me. I am sure as I grow and change so will this website but currently I hope to make short blogs on many things like my setups, good resources, CTF like [Hackthebox](https://www.hackthebox.eu "HTB Homepage") and [Tryhackme](https://tryhackme.com "THM Homepage"), and just whatever is on the brain for the day!
 
 
 <hr class="hr-line"> 
