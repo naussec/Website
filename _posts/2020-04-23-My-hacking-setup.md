@@ -19,7 +19,7 @@ I run two Profiles on this laptop, one for pure ethical hacking and nothing else
 
 ### Hardware
 
-* _MacBook Pro_
+* **MacBook Pro**
 * 2019 Space Gray
 * 16-inch Retina display with True Tone in a 15in body, love it!
 * 2.6GHz 6‑core 9th‑generation Intel Core i7 processor, Turbo Boost up to 4.5GHz
@@ -45,13 +45,14 @@ I run two Profiles on this laptop, one for pure ethical hacking and nothing else
 
 ### Software
 
-* _VMware Fusion_ - this is Super Important in my opinion for setting up safe boxes to hack from or to hack into for training. 
-... I Currently run a Kali VM for Ethical Hacking, CTF's, as well as testing new pentesting scrips and more. you can take snapshots any time you plan to do something new and if you mess anything up go back to a safe kali build and your back up and running. I also run a Windows server with Active Directory on it and two other Windows 10 host in VM's to run volubility testing against them. The best thing about running this on the MacBook is with a three finger swipe to the right or left you are back into your Mac OS where you might be running your Notes or other application outside of a VM. Its like beingin three OS's at one time on one machine with instance access to all of them.
+* **VMware Fusion** - this is Super Important in my opinion for setting up safe boxes to hack from or to hack into for training. I Currently run a Kali VM for Ethical Hacking, CTF's, as well as testing new pentesting scrips and more. you can take snapshots any time you plan to do something new and if you mess anything up go back to a safe kali build and your back up and running. I also run a Windows server with Active Directory on it and two other Windows 10 host in VM's to run volubility testing against them. The best thing about running this on the MacBook is with a three finger swipe to the right or left you are back into your Mac OS where you might be running your Notes or other application outside of a VM. Its like beingin three OS's at one time on one machine with instance access to all of them.
 
-* _Kali Linux_ - So this really is not a software but I list it here because My main OS is Mac OS and as stated above running an install of Kali on a MV.  So I treat this like a software install.  This is not a must have to be a hacker like many may quote but I do find it an amazing tool to have at your finger tips. I mostly use Kali during CTF's since it comes with just about any hacking tool you might need to complete.  As you get better you may find your self building your own custom Linux distro with only tools you need. 
+* **Kali Linux** - So this really is not a software but I list it here because My main OS is Mac OS and as stated above running an install of Kali on a MV.  So I treat this like a software install.  This is not a must have to be a hacker like many may quote but I do find it an amazing tool to have at your finger tips. I mostly use Kali during CTF's since it comes with just about any hacking tool you might need to complete.  As you get better you may find your self building your own custom Linux distro with only tools you need. 
 
-* _Microsoft OneNote_ - Notes are very important, maybe the most important thing while performing any type of ethical hacking or pentesting.  This practice of taking notes will keep you organized, allowing you to refer back to old notes on a new job, or even refer back to notes on a current job to make sure your not repeating work.  I like OneNote because it all backed up on a cloud with easy access, It allows you to make many different note books with sub notes under sub notes! One more thing I run this directly on my Mac OS so if a VM gets corrupt you don't loss any documentation.
+* **Microsoft OneNote** - Notes are very important, maybe the most important thing while performing any type of ethical hacking or pentesting.  This practice of taking notes will keep you organized, allowing you to refer back to old notes on a new job, or even refer back to notes on a current job to make sure your not repeating work.  I like OneNote because it all backed up on a cloud with easy access, It allows you to make many different note books with sub notes under sub notes! One more thing I run this directly on my Mac OS so if a VM gets corrupt you don't loss any documentation.
 
-* 
+* **Burp Suite** - Great for bug bounties or webapp pentesting.
+
+* **Your Browser** - I use a combo of Firefox and Chrome.  Just great to have options when testing different things.  You will spend a huge amount of your time just doing training, CTF's, research, recon, Google fu, and more. Don't under estimate your browser. 
 
 ## Desktop Setup
